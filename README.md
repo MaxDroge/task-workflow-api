@@ -23,11 +23,8 @@ This project is a RESTful API for managing workflow tasks. It allows users to cr
 
 ## How to Run
 
-1. Install dependencies:
-   pip install -r requirements.txt
+1. Install dependencies: pip install -r requirements.txt
 
-2. Start the server:
-   uvicorn main:app --reload
+3. Start the server: uvicorn main:app --reload
 
-3. Open API docs:
-   http://127.0.0.1:8000/docs
+4. Open API docs: http://127.0.0.1:8000/docs
